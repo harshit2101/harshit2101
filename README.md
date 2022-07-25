@@ -2,7 +2,7 @@
 
 # Hi there👋, Harshit Verma
 ### Frontend Developer
-I'm Harshit, I've recently started developing, learning new stuff and making amazing websites. I'm lookigng forward to learn and explore new technologies.
+I'm Harshit, I've recently started developing, learning new stuff and making amazing websites. I'm looking forward to learn and explore new technologies.
 
 ## Skills: 
 * 💻 HTML / CSS / JS / Tailwind CSS
