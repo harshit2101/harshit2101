@@ -1,6 +1,6 @@
 ### Hi there 👋, Harshit Verma
 #### Frontend Developer
-![Frontend Developer](https://redbackstudios.in/images/content/rb-web-development.png)
+![Frontend Developer](https://www.cryptus.in/image/web-development_banner.jpg)
 
 I'm Harshit, I've recently started developing, learning new stuff and making amazing websites. I'm loving this process of learning and exploring.
 
