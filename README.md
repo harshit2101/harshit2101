@@ -2,7 +2,7 @@
 #### Frontend Developer
 ![Frontend Developer](https://www.cryptus.in/image/web-development_banner.jpg)
 
-I'm Harshit, I've recently started developing, learning new stuff and making amazing websites. I'm loving this process of learning and exploring.
+I'm Harshit, I've recently started developing, learning new stuff and making amazing websites. I'm lookigng forward to learn and explore new technologies.
 
 Skills: HTML / CSS /  Tailwind CSS / JS / ReactJS / NextJS
 
